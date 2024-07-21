@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://haruncan.com/wp-content/uploads/2015/10/3047577-poster-p-1-mr-robot-on-usa.jpg" alt="MasterHead" />
+  <img src="https://haruncan.com/wp-content/uploads/2015/10/3047577-poster-p-1-mr-robot-on-usa.jpg" alt="MasterHead" width="50%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Full Stack Developer</h3>
