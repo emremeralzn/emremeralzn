@@ -1,6 +1,6 @@
-
+<p align="center">
   <a href="https://emremeralzn.github.io/myblog/" target="_blank">
-    🌐 Visit my personal website
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-blue?style=for-the-badge" alt="Website Badge"/>
   </a>
 </p>
 
@@ -18,7 +18,9 @@
 
 - 📫 *emre.meral50@erzurum.edu.tr* 
 
-- <a href="https://linkedin.com/in/emre-meralsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-meralsm" height="20" width="30" /></a>
+- <a href="https://linkedin.com/in/emre-meralsm" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-meralsm" height="20" width="30" />
+  </a>
   
 </p>
 
