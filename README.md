@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9ff334b-696c-4d3f-96a6-4e4fb3e83d48)![image](https://github.com/user-attachments/assets/9d37524e-82df-4d1d-97ee-ab2956115d69)![image](https://github.com/user-attachments/assets/2980cbd4-1d5b-4cdd-88ad-4c293a7190d0)<p align="center">
+
   <a href="https://emremeralzn.github.io/myblog/" target="_blank">
     🌐 Visit my personal website
   </a>
