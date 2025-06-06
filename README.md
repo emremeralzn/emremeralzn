@@ -1,76 +1,108 @@
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Emre+Meral;Full+Stack+Geliştirici;Frontend+ve+Backend+Uzmanı" alt="Typing SVG" />
+  <br/>
+</div>
+<br/>
+<div align="center">
   <a href="https://emremeralzn.github.io/myblog/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-blue?style=for-the-badge" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portföyüm-00AEEF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=githubkullaniciadiniz&label=Profil%20Ziyaretleri&color=blue&style=for-the-badge" alt="Profil Ziyaretleri" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/WVKtRn0.png" alt="Header Görseli" width="400" />
+</div>
+<br/>
+
+
+<p align="justify">
+ Merhaba, ben Emre Meral. Bilgisayar Mühendisliği mezunuyum. Modern, güvenli ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanan bir Full-Stack Geliştiriciyim. React, JavaScript, .NET Core, MSSQL, Firebase ve daha birçok modern araçla hem frontend hem backend geliştirme yapıyorum. Temiz kod, SOLID prensipleri ve yazılım mimarilerine önem veriyorum. Sürekli öğrenmeye ve teknolojiyi yakından takip etmeye özen gösteriyorum.
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/caa0fa7f-2c5f-4637-a3ec-ac31eccee9bb" alt="MasterHead" width="50%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Yılan Katkı Grafiği" width="700"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">🛠️ Kullandığım Teknolojiler</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=znoxl&label=Profile%20views&color=0e75b6&style=flat" alt="znoxl" /> </p>
+<div align="center">
+  <h3>Frontend Geliştirme</h3>
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </div>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+  <h3>Backend Geliştirme</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework"/>
+    <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" alt="OOP"/>
+    <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge" alt="REST APIs"/>
+  </div>
+</div>
 
-- 📫 *emre.meral50@erzurum.edu.tr* 
+<div align="center">
+  <h3>Veritabanları ve Araçlar</h3>
+  <div>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Veri%20Yapıları-4CAF50?style=for-the-badge" alt="Veri Yapıları"/>
+    <img src="https://img.shields.io/badge/Veritabanı%20Yönetimi-0064a5?style=for-the-badge" alt="Veritabanı Yönetimi"/>
+  </div>
+</div>
 
-- <a href="https://linkedin.com/in/emre-meralsm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-meralsm" height="20" width="30" />
+<h2 align="center">📊 GitHub İstatistiklerim</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=emremeralzn&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emremeralzn&theme=radical" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emremeralzn&layout=compact&theme=radical" alt="En Çok Kullanılan Diller"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">📬 Benimle İletişime Geçin</h2>
+
+<div align="center">
+  <a href="mailto:emooci3425@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  
-</p>
+  <a href="https://www.linkedin.com/in/emre-meralsm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://emremeralzn.github.io/myblog/">
+    <img src="https://img.shields.io/badge/Portföyüm-00AEEF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portföyüm"/>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emremeralzn&" alt="emremeralzn" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td>Ziyaretçi Sayısı</td>
+      <td><img src="https://profile-counter.glitch.me/githubkullaniciadiniz/count.svg" alt="Ziyaretçi Sayacı" /></td>
+    </tr>
+  </table>
+</div>
